@@ -1,6 +1,6 @@
 2017-02-15
 
-## And Beggar’S Thumb
+## And Beggar’s Thumb
 
 ---
 \\

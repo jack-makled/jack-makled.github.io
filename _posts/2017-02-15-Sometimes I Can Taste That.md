@@ -1,6 +1,6 @@
 2017-02-15
 
-## Sometimes I Can Taste That
+## Sometimes I Can Taste It
 
 ---
 \\

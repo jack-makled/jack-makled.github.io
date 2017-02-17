@@ -1,6 +1,6 @@
 2017-02-16
 
-## You'Re Pretty Neat"
+## You're neat
 
 ---
 \\

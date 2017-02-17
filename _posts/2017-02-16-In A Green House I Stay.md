@@ -1,6 +1,6 @@
 2017-02-16
 
-## In A Green House I Stay
+## Green House
 
 ---
 \\
@@ -10,4 +10,3 @@ feel the real truth.\\
 Rainbows of a dulled blade\\
 There must be a hit,\\
 to wait out the marrow
-

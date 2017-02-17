@@ -1,6 +1,6 @@
 2017-02-16
 
-## The Stones Of The Drive
+## The Stones & Drive
 
 ---
 \\
@@ -24,4 +24,3 @@ So the world are no longer foresee\\
 When you feel yourself?\\
 siren song. And still intend to\\
 Sometimes I think it, though.
-
