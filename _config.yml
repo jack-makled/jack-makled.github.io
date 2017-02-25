@@ -13,8 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Poetry
-# email: your-email@domain.com
+title: Words & Nonsense
 description: > # this means to ignore newlines until "baseurl:"
   Just a place to put some words.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -25,7 +24,8 @@ future: true
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: jekyll-theme-tactile
+theme: jekyll-theme-tactile
 gems:
   - jekyll-feed
 exclude:
