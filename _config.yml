@@ -24,8 +24,8 @@ future: true
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-tactile
-theme: minima
+theme: jekyll-theme-tactile
+# theme: minima
 gems:
   - jekyll-feed
 exclude:
