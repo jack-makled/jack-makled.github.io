@@ -16,8 +16,8 @@
 title: Words & Nonsense
 description: > # this means to ignore newlines until "baseurl:"
   Just a place to put some words.
-baseurl: "/posts" # the subpath of your site, e.g. /blog
-url: "https://jack-makled.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zomgdavidbowie
 github_username:  jack-makled
 future: true
