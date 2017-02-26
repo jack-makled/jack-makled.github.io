@@ -12,12 +12,16 @@ title: Words and Such - A Pet Project
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
 		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/blog">Blog</a></li>
+	        		<li><a href="/posts">Posts</a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
 
-			{{ content }}
+        <p class="meta">{{ page.date | date_to_string }}</p>
+
+        <div class="post">
+          {{ content }}
+        </div>
 
 			</div><!-- /.container -->
 			<footer>
