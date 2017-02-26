@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Words and Such - A Pet Project
+title: Posts
+permalink: /posts/
 ---
 <!DOCTYPE html>
 	<html>
