@@ -2,12 +2,28 @@
 layout: default
 title: Words and Such - A Pet Project
 ---
-<link rel="stylesheet" href="/css/main.css">
-<h1>{{ page.title }}</h1>
-<ul class="posts">
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+		        	<li><a href="/about">About</a></li>
+	        		<li><a href="/blog">Blog</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
 
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  {% endfor %}
+			{{ content }}
 
-</ul>
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+
+				</ul>
+			</footer>
+		</body>
+	</html>
