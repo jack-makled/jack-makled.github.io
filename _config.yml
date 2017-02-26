@@ -24,7 +24,6 @@ future: true
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-tactile
 theme: jekyll-theme-tactile
 gems:
   - jekyll-feed
